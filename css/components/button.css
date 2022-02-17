@@ -1,0 +1,14 @@
+.btn-blue {
+	background-color: steelblue;
+	color: #DCC9B6;
+	padding: 10px 15px;
+	border-radius: 4px;
+	font-weight:  bold;
+	font-family: 'roboto', sans-serif;
+}
+.btn-blue:hover {
+	background-color: #DCC9B6;
+	color: steelblue;
+	font-weight:  bold;
+	font-family: 'roboto', sans-serif;
+}
